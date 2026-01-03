@@ -16,5 +16,15 @@ A cloud-based Android application developed using MIT App Inventor for real-time
 
 ## Logic Overview
 The app utilizes event-driven programming blocks to handle data input, selection picking, and cloud storage triggers.
-![App Logic](blocks.png)
-![App Logic](blocks (1).png)
+
+## Application Logic (Blocks)
+
+The application follows an event-driven architecture using block-based programming.
+
+### Data Addition and Cloud Sync
+This part handles input validation and stores entries into the CloudDB.
+![Data Addition Logic](blocks.png)
+
+### Selection and Navigation
+Logic for picking items from the list and switching between screens.
+![Navigation Logic](blocks%20(1).png)
