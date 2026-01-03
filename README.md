@@ -26,3 +26,11 @@ This part handles input validation and stores entries into the CloudDB.
 ### Selection and Navigation
 Logic for picking items from the list and switching between screens.
 ![Navigation Logic](images/blocks%20(1).png)
+
+## Algorithm Workflow:
+
+Input: User enters a sample name in TextBox1.
+
+Local Update: The item is added to the global List variable and displayed in ListView.
+
+Cloud Sync: The app calls CloudDB.StoreValue using the sample name as both the Tag and the Value, ensuring data is saved on the server.
