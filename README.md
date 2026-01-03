@@ -20,11 +20,10 @@ The app utilizes event-driven programming blocks to handle data input, selection
 ## Application Logic (Blocks)
 
 The application follows an event-driven architecture using block-based programming.
-
 ### Data Addition and Cloud Sync
 This part handles input validation and stores entries into the CloudDB.
-![Data Addition Logic](blocks.png)
+![Data Addition Logic](images/blocks.png)
 
 ### Selection and Navigation
 Logic for picking items from the list and switching between screens.
-![Navigation Logic](blocks%20(1).png)
+![Navigation Logic](images/blocks%20(1).png)
