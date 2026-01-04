@@ -42,3 +42,9 @@ Download the BioSample_Tracker.apk from this repository.
 Install it on your Android device (enable "Unknown Sources").
 
 Alternatively, import the .aia file into MIT App Inventor to view the source blocks.
+
+## Roadmap / Future Improvements
+* **QR/Barcode Integration:** Use the phone's camera to scan tubes and instantly find sample data.
+* **Export to CSV/Excel:** Ability to send the current inventory list to email for documentation.
+* **Expiration Alerts:** Automated notifications for reagents with upcoming expiry dates.
+* **Offline Mode:** Local caching of data when Wi-Fi in the lab is unstable.
