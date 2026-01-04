@@ -34,3 +34,11 @@ Input: User enters a sample name in TextBox1.
 Local Update: The item is added to the global List variable and displayed in ListView.
 
 Cloud Sync: The app calls CloudDB.StoreValue using the sample name as both the Tag and the Value, ensuring data is saved on the server.
+
+## How to Test:
+
+Download the BioSample_Tracker.apk from this repository.
+
+Install it on your Android device (enable "Unknown Sources").
+
+Alternatively, import the .aia file into MIT App Inventor to view the source blocks.
