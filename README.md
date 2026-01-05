@@ -27,7 +27,7 @@ This part handles input validation and stores entries into the CloudDB.
 Logic for picking items from the list and switching between screens.
 ![Navigation Logic](images/blocks%20(1).png)
 
-![DESPLAY](dil.jpg)
+![DESPLAY](images/dil.jpg)
 
 ## Algorithm Workflow:
 
